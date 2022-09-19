@@ -1,4 +1,4 @@
-# Sprint
+# Sprint for automate firs Seleniumprogramme
 test
 package com.Selenum;
 
